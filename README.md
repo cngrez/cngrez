@@ -1,7 +1,6 @@
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZyOTNhM293ZGtwZGJzcXg1MjZxeHY1aXowaG42em0wdzh3aTJtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lm2hujbNpM7fi/giphy.gif"       alt="2000s pika STICKER" style="width: 80px; height: auto;" />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Keania+One&size=25&pause=1000&color=030304&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE!" alt="Typing SVG" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZyOTNhM293ZGtwZGJzcXg1MjZxeHY1aXowaG42em0wdzh3aTJtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lm2hujbNpM7fi/giphy.gif"         alt="2000s pika STICKER" style="width: 80px; height: auto;" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Keania+One&size=25&duration=4994&pause=1000&color=030304&repeat=false&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE!" alt="Typing SVG" />
   </a>
 </div>
 
