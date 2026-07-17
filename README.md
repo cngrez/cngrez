@@ -5,11 +5,12 @@
 </div>
 
 I'm a final-year IT student who's passionate about technology and continuous learning. I'm currently on a journey to level up my skills, enjoy exploring new technologies, and love the process of becoming a better developer every day.
-
-- 🎓 Final year IT student
-- 🌱 Currently learning: [e.g., React, Python, Cloud Computing, Cybersecurity]
-- 💡 Interested in: [e.g., App Development, AI, Cybersecurity]
-- ✨ Fun fact: [Love climbing and being outdoors]
+```
+🎓 Final year IT student
+🌱 Currently learning: [e.g., React, Python, Cloud Computing, Cybersecurity]
+💡 Interested in: [e.g., App Development, AI, Cybersecurity]
+✨ Fun fact: [Love climbing and being outdoors]
+```
 
 ---
 
