@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Keania+One&size=30&pause=1000&color=030304&width=435&lines=CLARISSA+CHUA)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Keania+One&size=40&pause=1000&color=030304&width=435&lines=WELCOME+TO+CLARISSA's+GITHUB+PROFILE)](https://git.io/typing-svg)
 
 I'm a third-year Information Technology student at **Otago Polytechnic (New Zealand)** with a passion for building software that solves real-world problems.
 
