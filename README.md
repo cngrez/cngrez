@@ -30,7 +30,7 @@ I'm a final-year IT student who loves building things. I enjoy creating web appl
 
 ## 📊 GitHub Stats
 
-[![Clarissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNGREZ&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Clarissa's GitHub stats](https://github-stats-extended.vercel.app/api?username=cngrez)](https://github.com/stats-organization/github-stats-extended)
 
 <!-- ## 📌 Featured Projects -->
 
@@ -41,5 +41,5 @@ I'm a final-year IT student who loves building things. I enjoy creating web appl
 
 ## 📫 Let's Connect
 
-LinkedIn: https://linkedin.com/in/clarissa-nelda-chua
-Email: clarissaneldachua@gmail.com
+- LinkedIn: https://linkedin.com/in/clarissa-nelda-chua
+- Email: clarissaneldachua@gmail.com
