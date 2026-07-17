@@ -1,7 +1,6 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZyOTNhM293ZGtwZGJzcXg1MjZxeHY1aXowaG42em0wdzh3aTJtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lm2hujbNpM7fi/giphy.gif"         alt="2000s pika STICKER" style="width: 80px; height: auto;" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Keania+One&size=25&duration=4994&pause=1000&color=030304&repeat=false&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE!" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Keania+One&size=25&duration=4994&pause=1000&color=D80006&width=434&height=80&lines=WELCOME+TO+MY+GITHUB+PROFILE!" alt="Typing SVG" /></a>
 </div>
 
 I'm a final-year IT student who loves building things. I enjoy creating web applications and exploring AI/machine learning. Still figuring out exactly where I'll end up, but I'm excited about the journey!
