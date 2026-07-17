@@ -4,8 +4,6 @@
   </a>
 </div>
 
-Hi, I'm Clarissa! 👋
-
 I'm a final-year IT student who's passionate about technology and continuous learning. I'm currently on a journey to level up my skills, enjoy exploring new technologies, and love the process of becoming a better developer every day.
 
 - 🎓 Final year IT student
