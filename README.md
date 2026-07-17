@@ -1,4 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Keania+One&size=25&pause=1000&color=030304&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE!)](https://git.io/typing-svg)
+![2000s pika STICKER](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZyOTNhM293ZGtwZGJzcXg1MjZxeHY1aXowaG42em0wdzh3aTJtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lm2hujbNpM7fi/giphy.gif)
 
 I'm a third-year Information Technology student at **Otago Polytechnic (New Zealand)** with a passion for building software that solves real-world problems.
 
