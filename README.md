@@ -4,12 +4,13 @@
   </a>
 </div>
 
-I'm a final-year IT student who's passionate about technology and continuous learning. I'm currently on a journey to level up my skills, enjoy exploring new technologies, and love the process of becoming a better developer every day.
+I'm a final-year IT student who loves building things. I enjoy creating web applications and exploring AI/machine learning. Still figuring out exactly where I'll end up, but I'm excited about the journey!
+
 ```
 🎓 Final year IT student
-🌱 Currently learning: [e.g., React, Python, Cloud Computing, Cybersecurity]
-💡 Interested in: [e.g., App Development, AI, Cybersecurity]
-✨ Fun fact: [Love climbing and being outdoors]
+🌱 Currently learning: Cloud Computing, Cybersecurity
+🎯 Interested in: Software Engineering, AI & Backend Development
+✨ Fun fact: Love climbing and being outdoors
 ```
 
 ---
@@ -24,3 +25,22 @@ I'm a final-year IT student who's passionate about technology and continuous lea
 | **🗄️ Databases** | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
 | **🤖 AI/ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 | **🛠️ Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+
+---
+
+## 📊 GitHub Stats
+
+[![Clarissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=cngrez &show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📌 Featured Projects
+
+<!-- Replace with your actual project links -->
+- **[Project Name 1](link)** - Brief description
+- **[Project Name 2](link)** - Brief description
+- **[Project Name 3](link)** - Brief description
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-url)
