@@ -30,17 +30,17 @@ I'm a final-year IT student who loves building things. I enjoy creating web appl
 
 ## 📊 GitHub Stats
 
-[![Clarissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=cngrez &show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Clarissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNGREZ&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📌 Featured Projects
 
 <!-- Replace with your actual project links -->
-- **[Project Name 1](link)** - Brief description
-- **[Project Name 2](link)** - Brief description
-- **[Project Name 3](link)** - Brief description
+<!-- - **[Project Name 1](link)** - Brief description -->
+<!-- - **[Project Name 2](link)** - Brief description -->
+<!-- - **[Project Name 3](link)** - Brief description -->
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarissa-nelda-chua/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clarissaneldachua@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-url) -->
