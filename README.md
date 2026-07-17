@@ -14,128 +14,42 @@ I'm a final-year IT student who's passionate about technology and continuous lea
 
 ---
 
-## 🚀 
+## 🛠️ Tech Stack
 
-**TitanX** — A full-stack workout progress tracker built as a portfolio project.
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tech Stack
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-* Python
-* FastAPI
-* React
-* SQLite
-* JWT Authentication
-* Git & GitHub
-* Figma
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-Current focus:
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-* Designing scalable backend architecture
-* REST API development
-* Database design & normalization
-* Clean code and software engineering practices
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
-
-## 💻 Technologies
-
-### Languages
-
-* Python
-* JavaScript
-* TypeScript
-* C#
-* SQL
-
-### Frontend
-
-* React
-* React Native
-* SvelteKit
-* HTML
-* CSS
-
-### Backend
-
-* FastAPI
-* Node.js
-* Express
-
-### Databases
-
-* SQLite
-* PostgreSQL
-* Prisma ORM
-
-### Tools
-
-* Git
-* GitHub
-* Docker
-* Figma
-* Postman
-
----
-
-## 📌 Featured Projects
-
-### 🏋️ TitanX *(In Progress)*
-
-A modern workout progress tracker focused on clean architecture and long-term scalability.
-
-Features include:
-
-* Workout logging
-* Custom workout routines
-* Body metrics tracking
-* Progress analytics
-* JWT authentication
-* REST API
-* Responsive React frontend
-
----
-
-### ⚽ Football Association Management System
-
-Academic team project developed using Agile methodologies.
-
-Highlights:
-
-* Scrum team collaboration
-* Authentication system
-* Player management
-* PostgreSQL database
-* Prisma ORM
-
----
-
-### 📈 Fitness Tracker Web App
-
-A full-stack application for tracking workouts and training volume.
-
-Built with:
-
-* Node.js
-* Express
-* JWT Authentication
-* PostgreSQL
-* Vercel
-* Render
-
----
-
-## 🌱 Currently Learning
-
-* Software Architecture
-* FastAPI
-* System Design
-* Testing
-* Cloud Computing
-* Cybersecurity
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: *(add your LinkedIn URL here)*
-* Portfolio: *(coming soon)*
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
