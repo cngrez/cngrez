@@ -30,7 +30,13 @@ I'm a final-year IT student who loves building things. I enjoy creating web appl
 
 ## 📊 GitHub Stats
 
-[![Clarissa's GitHub stats](https://github-stats-extended.vercel.app/api?username=cngrez)](https://github.com/stats-organization/github-stats-extended)
+<picture>
+  <source
+      srcset="https://github-stats-extended.vercel.app/api?username=cngrez&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api?username=cngrez&show_icons=true" /> <!-- light mode -->
+</picture>
 
 <!-- ## 📌 Featured Projects -->
 
