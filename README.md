@@ -41,6 +41,5 @@ I'm a final-year IT student who loves building things. I enjoy creating web appl
 
 ## 📫 Let's Connect
 
-**LinkedIn** · **Email**
-
-[LinkedIn](https://linkedin.com/in/clarissa-nelda-chua) · [Email](mailto:clarissaneldachua@gmail.com)
+LinkedIn: https://linkedin.com/in/clarissa-nelda-chua
+Email: clarissaneldachua@gmail.com
