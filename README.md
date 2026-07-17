@@ -4,13 +4,18 @@
   </a>
 </div>
 
-I'm a third-year Information Technology student at **Otago Polytechnic (New Zealand)** with a passion for building software that solves real-world problems.
+Hi, I'm Clarissa! 👋
 
-I enjoy designing applications from the ground up—from gathering requirements and designing databases to building APIs and creating clean user interfaces. Recently, I've been focusing on improving my software engineering practices by applying Git, Agile workflows, testing, documentation, and clean architecture to my personal projects.
+I'm a final-year IT student who's passionate about technology and continuous learning. I'm currently on a journey to level up my skills, enjoy exploring new technologies, and love the process of becoming a better developer every day.
+
+- 🎓 Final year IT student
+- 🌱 Currently learning: [e.g., React, Python, Cloud Computing, Cybersecurity]
+- 💡 Interested in: [e.g., App Development, AI, Cybersecurity]
+- ✨ Fun fact: [Love climbing and being outdoors]
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 
 
 **TitanX** — A full-stack workout progress tracker built as a portfolio project.
 
