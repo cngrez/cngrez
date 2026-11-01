@@ -37,16 +37,6 @@ Hi, I'm Clarissa! I'm a final-year IT student who loves building things. I reall
 
 ---
 
-## 📊 GitHub Stats
-
-<picture>
-  <source
-      srcset="https://github-stats-extended.vercel.app/api?username=cngrez&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-stats-extended.vercel.app/api?username=cngrez&show_icons=true" /> <!-- light mode -->
-</picture>
-
 ## 📫 Let's Connect
 
 - LinkedIn: https://linkedin.com/in/clarissa-nelda-chua
