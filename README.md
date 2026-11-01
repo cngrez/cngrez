@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Keania+One&size=25&duration=4994&pause=1000&color=D80006&width=434&height=80&lines=WELCOME+TO+MY+GITHUB+PROFILE!" alt="Typing SVG" /></a>
 </div>
 
-I'm a final-year Bachelor of Information Technology student at Otago Polytechnic, looking for a **DevOps, cloud or AI internship**. I like building things, from web apps to cloud tooling, and I'm keen to keep learning how infrastructure and AI come together.
+Hi, I'm Clarissa! I'm a final-year IT student who loves building things. I really enjoy cloud and infrastructure, and exploring AI/machine learning. Still figuring out exactly where I'll end up, but I'm excited about the journey ^_^ !
 
 ```
 🎓 Final year IT student at Otago Polytechnic
